@@ -1,6 +1,6 @@
 # What
 
-A simple example on how to use the systick timer to generate periodic events using DAVE4 (NO DAVE APP).
+A simple example on how to use the systick timer to generate periodic events using DAVE4 (NO DAVE APP) for xmc2go board by Infineon.
 The rest of the files was generated using DAVE4 (simple main template).
 
 # Use 
